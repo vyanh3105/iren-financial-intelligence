@@ -2,7 +2,7 @@
 
 > Can financial data, operating metrics and quantitative analysis tell us how IREN (NASDAQ: IREN) is performing, how healthy its finances are and how much it can grow? And what is the investment recommendation?
 
-**Status:** 🚧 in progress · **As-of date:** 10 Nov 2026 close · **Author:** Vivian Nguyen
+**Status:** in progress · **As-of date:** 10 Nov 2026 close · **Author:** Vivian Nguyen
 
 ## Executive summary
 
