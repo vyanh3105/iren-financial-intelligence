@@ -1,0 +1,6 @@
+event_date,event_type,description,expected_sign,source_url
+2025-11-03,contract,Microsoft ~$9.7bn five-year AI cloud contract,+,TODO add IREN release URL
+2025-12-03,financing,Registered direct equity (~$1.6bn at $41.12) + $2bn convertible notes to refinance 2029/2030 notes [VERIFY announcement date],-,https://www.theblock.co/amp/post/381250/iren-refuels-balance-sheet-3-6-billion-financing-ai-cloud-buildout
+2026-05-13,financing,$3bn 1.00% convertible notes due Dec 2033 [VERIFY pricing date; closed 13 May],-,https://www.theblock.co/news/business/2026-05-15-iren-closes-3-billion-convertible-notes-offering-as-bitcoin-miners-ai-infrastructure-push-accelerates-401447
+2026-08-27,earnings,FY26 results; frontier-lab contract; $4bn contracted ARR,?,https://iren.gcs-web.com/news-releases/news-release-details/iren-reports-fy26-results
+2026-11-05,earnings,Q1 FY27 results (after close); $4bn ARR target moved to Jan 2027,?,https://globenewswire.com/news-release/2026/11/05/3397020/0/en/iren-reports-q1-fy27-results.html

@@ -1,0 +1,16 @@
+# Install with:  pip install -r requirements.txt   (inside your .venv)
+pandas>=2.2
+numpy>=1.26
+scipy>=1.12
+matplotlib>=3.8
+yfinance>=0.2.50
+requests>=2.31
+statsmodels>=0.14.2
+arch>=7.0
+scikit-learn>=1.4
+openpyxl>=3.1
+ipykernel>=6.29
+nbformat>=5.10
+# Installs src/iren as an importable package, in "editable" mode:
+# edits to src/iren/*.py are picked up after restarting the notebook kernel.
+-e .
